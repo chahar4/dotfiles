@@ -1,0 +1,25 @@
+[font]
+normal = { family = "FiraCode Nerd Font"}
+size = 18.0
+
+[window]
+opacity = 0.95
+padding.x = 10
+padding.y = 10
+
+decorations = "Full"
+decorations_theme_variant = "Dark"
+
+
+
+[terminal.shell]
+program = "powershell"
+args = ["-NoExit", "-Command", "cd 'C:\\Users\\MOUOOD\\Documents'"]
+# program = "wsl"
+# args = ["-d" , "archlinux"]
+
+
+[mouse]
+hide_when_typing = true
+
+
